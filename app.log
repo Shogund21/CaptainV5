@@ -1,0 +1,17 @@
+2024-07-29 18:37:29,194 - root - ERROR - Error viewing resume: ResumeManagementTab.resume_selected[str, str].emit(): argument 1 has unexpected type 'int'
+2024-07-29 18:47:30,350 - root - ERROR - Error viewing resume: ResumeManagementTab.resume_selected[str, str].emit(): argument 1 has unexpected type 'int'
+2024-07-29 18:47:52,654 - root - ERROR - Error viewing resume: ResumeManagementTab.resume_selected[str, str].emit(): argument 1 has unexpected type 'int'
+2024-07-29 18:47:58,850 - root - ERROR - Error viewing resume: ResumeManagementTab.resume_selected[str, str].emit(): argument 1 has unexpected type 'int'
+2024-07-29 21:01:41,001 - root - ERROR - Error viewing resume: 'str' object has no attribute 'decode'
+2024-07-29 21:33:12,079 - root - ERROR - Error viewing resume: 'str' object has no attribute 'decode'
+2024-07-29 21:55:41,600 - root - ERROR - Error viewing resume: name 'Document' is not defined
+2024-07-29 21:58:46,417 - root - ERROR - Error viewing resume: name 'Document' is not defined
+2024-07-30 01:53:47,773 - root - ERROR - Error viewing resume: 'str' object has no attribute 'decode'
+2024-07-30 01:54:10,842 - root - ERROR - Error viewing resume: 'str' object has no attribute 'decode'
+2024-07-30 01:55:21,230 - root - ERROR - Error viewing resume: 'str' object has no attribute 'decode'
+2024-07-30 11:38:03,985 - root - ERROR - Error viewing resume: ResumeViewWindow.__init__() takes 3 positional arguments but 4 were given
+2024-07-30 11:39:25,079 - root - ERROR - Error viewing resume: ResumeViewWindow.__init__() takes 3 positional arguments but 4 were given
+2024-07-30 11:41:38,143 - root - ERROR - Error viewing resume: ResumeViewWindow.__init__() takes 3 positional arguments but 4 were given
+2024-07-30 11:46:50,061 - root - ERROR - Error viewing resume: QMainWindow(parent: Optional[QWidget] = None, flags: Union[Qt.WindowFlags, Qt.WindowType] = Qt.WindowFlags()): argument 1 has unexpected type 'bytes'
+2024-07-30 12:27:55,881 - root - ERROR - Error viewing resume: 'ResumeManagementTab' object has no attribute 'read_docx'
+2024-07-30 12:38:56,357 - root - ERROR - Error viewing resume: QMainWindow(parent: Optional[QWidget] = None, flags: Union[Qt.WindowFlags, Qt.WindowType] = Qt.WindowFlags()): argument 1 has unexpected type 'str'
